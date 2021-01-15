@@ -1,0 +1,50 @@
+<annotation>
+	<folder>train</folder>
+	<filename>80.jpg</filename>
+	<path>C:\Users\ASUS\Desktop\Thesis\windows_v1.8.0\windows_v1.8.0\train\80.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Stop</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>79</xmin>
+			<ymin>210</ymin>
+			<xmax>232</xmax>
+			<ymax>346</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Limit 20</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>260</xmin>
+			<ymin>188</ymin>
+			<xmax>392</xmax>
+			<ymax>324</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Limit 40</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>412</xmin>
+			<ymin>205</ymin>
+			<xmax>570</xmax>
+			<ymax>350</ymax>
+		</bndbox>
+	</object>
+</annotation>
